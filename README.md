@@ -3,4 +3,4 @@ Made using React.js
 
 Used "FreeCurrencyAPI": https://app.freecurrencyapi.com/
 
-Video coming soon
+Syed Mehdi - December 2023
